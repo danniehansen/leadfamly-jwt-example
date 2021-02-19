@@ -39,10 +39,8 @@ $payload = [
     'aud' => 'LeadFamly',
     'iat' => time(),
     'exp' => time() + 3600,
-    'fields' => [
-        'email' => 'dannie@leadfamly.com',
-        'name' => 'Dannie Birk Hansen',
-    ],
+    'email' => 'dannie@leadfamly.com',
+    'name' => 'Dannie Birk Hansen',
 ];
 
 // Encode JWT using the private key & RS256 alg
