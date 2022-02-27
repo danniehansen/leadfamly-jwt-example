@@ -1,5 +1,5 @@
 # JWT example
-The following code snippet showcase an example of how you can construct JWT tokens that the LeadFamly platform will understand. JWT example is written in PHP.
+The following code snippet showcase an example of how you can construct JWT tokens that the Leadfamly platform will understand. JWT example is written in PHP.
 
 ## Installation
 1. Clone repo
